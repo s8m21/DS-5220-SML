@@ -1,1 +1,1 @@
-# DS-5220-Supervised Machine Learning
+# DS 5220 Supervised Machine Learning
